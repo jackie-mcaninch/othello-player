@@ -5,7 +5,7 @@ The client, which is the game-playing bot, was written in Python and connects to
 
 ## Usage
 
-After cloning the repository, you will need to start the game server. Instructions are found in README_server.md. To start the client and establish a connection to the server, first navigate to **/sdks/python** and run the following command on a terminal:
+After cloning the repository, you will need to start the game server. Instructions are found in README_server.md. To start the client and establish a connection to the server, first navigate to **/sdks/python** and run the following command on a terminal:__
 python client.py `<depth>` `(optional) <port>` `(optional) <host>`
   * `<depth>` is an integer which specifies how many moves ahead in the game tree the bot should look
   * `<port>` is an optional integer argument to specify which port will be used to connect to the server. 1337 by default.
