@@ -2,7 +2,6 @@
 Disclaimer: developed with Python 3.7.0, tested with Python 2.7.10 - not guaranteed to work with other versions
 
 ## Instructions
-To run the client, run: `python client.py [optional port] [optional hostname]`
 
 To run all tests, run `python -m unittest`
 To run all tests in "test.py" tests, run `python -m unittest test`
